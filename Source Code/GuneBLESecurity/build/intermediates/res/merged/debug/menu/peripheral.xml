@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<item android:id="@+id/device_connect" android:title="Connect" android:showAsAction="always"></item>
+<item android:id="@+id/device_disconnect" android:title="Disconnect" android:visible="false" android:showAsAction="always"></item>
+
+</menu>
+<!-- From: file:/C:/Users/Shreyas/Desktop/bluetooth-innmotion-master-THE%20FINAL/Application%20Accelerator%20v1.0.1/Android/BLEDemo/res/menu/peripheral.xml -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Shreyas\Desktop\bluetooth-innmotion-master-THE FINAL\Application Accelerator v1.0.1\Android\BLEDemo\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Users\Shreyas\Desktop\bluetooth-innmotion-master-THE FINAL\Application Accelerator v1.0.1\Android\BLEDemo\build\intermediates\pre-dexed\debug\android-support-v4-691927ba2b87cbcffc1876e0b20768510f67b712.jar" />
+    </item>
+
+</items>

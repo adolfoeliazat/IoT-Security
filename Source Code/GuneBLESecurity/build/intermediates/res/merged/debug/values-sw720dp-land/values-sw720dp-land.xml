@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Shreyas/Desktop/bluetooth-innmotion-master-THE%20FINAL/Application%20Accelerator%20v1.0.1/Android/BLEDemo/res/values-sw720dp-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+</resources>

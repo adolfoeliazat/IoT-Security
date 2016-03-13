@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/peripheral_list_characteristic_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/peripheral_list_characteristic_uuid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="15dp"
+        android:textColor="#888"
+        android:textSize="14sp"
+        android:textStyle="italic" />
+
+
+</LinearLayout>
+
+
+<!-- From: file:/C:/Users/Shreyas/Desktop/bluetooth-innmotion-master-THE%20FINAL/Application%20Accelerator%20v1.0.1/Android/BLEDemo/res/layout/peripheral_list_characteristic_item.xml -->
