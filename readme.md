@@ -15,6 +15,12 @@ I have also included a Powerpoint Presentation for the folks who don't want to g
 The examples are mentioned in the report. Look at 'em. 
 If you have trouble understanding it, email me at : [shreyas.enug@gmail.com](shreyas.enug@gmail.com)
 
+## Algorithm Flow
+#Security Algorithm
+![GuneSec Algorithm ](https://github.com/shreyasgune/IoT-Security/blob/master/algorithm-gunesec.png)
+
+#Android Flow
+![Android Flow Diagram](https://github.com/shreyasgune/IoT-Security/blob/master/androidLEflow.png)
 
 ## Motivation
 Think about this. You have a reminder sensor telling you what time you should take your medecine, a temperature controller at home, some automated device speaking to your phone, a pacemaker.
@@ -36,7 +42,7 @@ NOTE : ##The actual Firmware Update service is not implemented in the current bu
 Mostly Google APIs : Fonts , Geolocation and Mapping. They've made things really easy. The more I do these projects, the more I learn how nifty their APIs are.
 
 ##Video : Project in Action
-[![GuneSec IoT OAD Authentication/Authorization](image src)](https://youtu.be/GaJanlhgQm0 "GuneSec IoT Security")
+[![GuneSec IoT OAD Authentication/Authorization](https://github.com/shreyasgune/IoT-Security/blob/master/IoTSec.jpg)](https://youtu.be/GaJanlhgQm0 "GuneSec IoT Security")
 
 ## Tests
 No test cases were written. I manually tested it relentlessly but I never wrote automated tests. I know I should've have, but I just wanted to hack it enough to make it work.
